@@ -1,16 +1,26 @@
-## Hi there 👋
+# Reza Shahrokhian
 
-<!--
-**shahrokhian/shahrokhian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on backend systems, application security, and infrastructure.
 
-Here are some ideas to get you started:
+I work primarily with **PHP / Laravel**, **Linux**, **Docker**, **AWS**, and modern web technologies, with a strong interest in secure software, networking, and self-hosted systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I occasionally write about things I build, troubleshoot, or learn along the way.
+
+[reza.sh](https://reza.sh)
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shahrokhian/shahrokhian/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shahrokhian/shahrokhian/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/shahrokhian/shahrokhian/output/github-snake.svg"
+  />
+</picture>
